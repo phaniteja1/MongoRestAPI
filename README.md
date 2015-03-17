@@ -24,4 +24,9 @@ Method  :       PUT
 URL     :       /product/+testItem.id , testItem
 --> The testItem here is the key-value pair of the field that has to be updated
 
+// deleting a menu item
+
+Method  :       DEL
+URL     :       /product/+testItem.id
+
 
